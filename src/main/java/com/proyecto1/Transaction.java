@@ -1,3 +1,5 @@
+package com.proyecto1;
+
 public class Transaction {
     private final long id;
     private final String clientId;

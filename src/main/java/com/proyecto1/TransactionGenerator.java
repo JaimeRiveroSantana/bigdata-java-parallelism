@@ -1,3 +1,5 @@
+package com.proyecto1;
+
 import java.util.*;
 import java.util.concurrent.ThreadLocalRandom;
 
